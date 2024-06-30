@@ -10,6 +10,27 @@
     <title>Not Found!</title>
     <link rel="manifest" href="manifest.json">
     <style>
+        @font-face {
+            font-family: "EuclidCircularA";
+            font-weight: 400;
+            src: url("fonts/EuclidCircularA-Regular.ttf");
+        }
+        @font-face {
+            font-family: "EuclidCircularA";
+            font-weight: 500;
+            src: url("fonts/EuclidCircularA-Medium.ttf");
+        }
+        @font-face {
+            font-family: "EuclidCircularA";
+            font-weight: 600;
+            src: url("fonts/EuclidCircularA-SemiBold.ttf");
+        }
+        @font-face {
+            font-family: "EuclidCircularA";
+            font-weight: 700;
+            src: url("fonts/EuclidCircularA-Bold.ttf");
+        }
+
         body {
             display: flex;
             justify-content: center;
@@ -17,7 +38,7 @@
             height: 100vh;
             padding: 16px;
             margin: 0;
-            font-family: Arial, sans-serif;
+            font-family: 'EuclidCircularA', sans-serif;
         }
 
         .container {
@@ -29,24 +50,24 @@
         }
 
         .error-message {
-            font-size: 8rem;
+            font-size: 120px;
             font-weight: bolder;
-            height: 9rem;
             margin: 0;
             padding: 0;
         }
 
         .error-description {
-            margin: 0;
-            font-size: 1.25rem;
+            margin-top: 16px;
+            font-size: 20px;
             font-weight: 500;
         }
 
         .home-button {
             display: inline-block;
-            margin-top: 32px;
+            margin-top: 24px;
             padding: 16px 24px;
-            font-size: 1rem;
+            font-size: 16px;
+            font-weight: 500;
             color: #ffffff;
             background-color: #2454FF;
             border: none;
