@@ -2,32 +2,33 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_1",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B,A={
-l4(d){return new A.aci(d)},
-py:function py(){},
-aci:function aci(d){this.a=d},
-aCC(d){return B.aR(["aboutOptionLabel",A.l4("About"),"appTitle",A.l4("Pintu Singh - Portfolio"),"changeThemeTooltip",A.l4("Change Theme"),"contactOptionLabel",A.l4("Contact"),"darkThemeLabel",A.l4("Dark"),"experienceOptionLabel",A.l4("Experience"),"lightThemeLabel",A.l4("Light"),"projectsOptionLabel",A.l4("Projects"),"servicesOptionLabel",A.l4("Services"),"systemThemeLabel",A.l4("System")],y.g,y.a)},
-P7:function P7(d){this.a=d},
-aV1(d,e,f){if(d!=="")return d
+fl(d){return new A.acI(d)},
+pC:function pC(){},
+acI:function acI(d){this.a=d},
+aDd(d){var x="Experience",w="Projects",v="Services"
+return B.aR(["aboutContent",A.fl("Hello, My name is Pintu Singh. A self taught flutter developer with 4+ years of experience in mobile and web app development. I have also knowledge in Android native & backend development using Node.js. My passion is to design and create beautiful user friendly apps and websites.\n\nConstantly learning and adapting to new technologies to enrich my skills and improve my knowledge as a developer. I delighted to have opportunities in my career to help my clients and colleagues to improve their digital experiences.\n\nBeside my professional skills, I enjoy doing photography and traveling. Right now I live in Surat, Gujarat, India."),"aboutOptionLabel",A.fl("About"),"aboutScreenTitle",A.fl("About"),"appTitle",A.fl("Pintu Singh - Portfolio"),"changeThemeTooltip",A.fl("Change Theme"),"contactOptionLabel",A.fl("Contact"),"contactScreenTitle",A.fl("Contact Me"),"darkThemeLabel",A.fl("Dark"),"experienceOptionLabel",A.fl(x),"experienceScreenTitle",A.fl(x),"lightThemeLabel",A.fl("Light"),"projectsOptionLabel",A.fl(w),"projectsScreenTitle",A.fl(w),"servicesOptionLabel",A.fl(v),"servicesScreenTitle",A.fl(v),"systemThemeLabel",A.fl("System")],y.g,y.a)},
+Po:function Po(d){this.a=d},
+aVF(d,e,f){if(d!=="")return d
 return e}}
 B=c[0]
 A=a.updateHolder(c[3],A)
-A.py.prototype={
-ak_(d,e,f,g,h,i){var x=this.a.i(0,A.aV1(f,d,h))
+A.pC.prototype={
+akc(d,e,f,g,h,i){var x=this.a.i(0,A.aVF(f,d,h))
 if(x==null)return d
-else return B.aBN(x,g)},
+else return B.aCn(x,g)},
 i(d,e){return this.a.i(0,e)},
 k(d){return"en"}}
-A.P7.prototype={}
-var z=a.updateTypes(["b6<h,hI>(@)"])
-A.aci.prototype={
+A.Po.prototype={}
+var z=a.updateTypes(["b6<h,hL>(@)"])
+A.acI.prototype={
 $0(){return this.a},
-$S:40};(function installTearOffs(){var x=a._static_1
-x(A,"aWC","aCC",0)})();(function inheritance(){var x=a.inherit
-x(A.py,B.w)
-x(A.aci,B.xz)
-x(A.P7,A.py)})()
-B.aF8(b.typeUniverse,JSON.parse('{"P7":{"py":[]}}'))
-var y={a:B.T("hI"),g:B.T("h")};(function lazyInitializers(){var x=a.lazyFinal
-x($,"b0W","aK5",()=>new A.P7(A.aCC(A.aWC())))})()};
+$S:38};(function installTearOffs(){var x=a._static_1
+x(A,"aXf","aDd",0)})();(function inheritance(){var x=a.inherit
+x(A.pC,B.w)
+x(A.acI,B.xG)
+x(A.Po,A.pC)})()
+B.aFJ(b.typeUniverse,JSON.parse('{"Po":{"pC":[]}}'))
+var y={a:B.T("hL"),g:B.T("h")};(function lazyInitializers(){var x=a.lazyFinal
+x($,"b1C","aKJ",()=>new A.Po(A.aDd(A.aXf())))})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_1",e:"endPart",h:b})})($__dart_deferred_initializers__,"zEjBwO3cGkUCad0Zq0oE8VSP/7c=");
+a.eventLog.push({p:"main.dart.js_1",e:"endPart",h:b})})($__dart_deferred_initializers__,"Zcd30awbtg6RXdhTrcd/RS0f2nQ=");

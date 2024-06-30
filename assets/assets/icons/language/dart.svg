@@ -1,0 +1,28 @@
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#clip0_22_11)">
+        <path d="M51 141L25 115C21.92 111.83 20 107.37 20 103C20 100.98 21.14 97.82 22 96L46 46L51 141Z"
+              fill="#01579B"/>
+        <path d="M140 51L114 25C111.73 22.72 107 20 103 20C99.56 20 96.19 20.69 94 22L46 46L140 51Z" fill="#40C4FF"/>
+        <path d="M82 172H145V145L98 130L55 145L82 172Z" fill="#40C4FF"/>
+        <path d="M46 127C46 135.02 47.01 136.99 51 141L55 145H145L101 95L46 46V127Z" fill="#29B6F6"/>
+        <path d="M126 46H46L145 145H172V83L140 51C135.51 46.49 131.51 46 126 46Z" fill="#01579B"/>
+        <path opacity="0.2" d="M52 142C48 137.98 47 134.03 47 127V47L46 46V127C46 134.03 46 135.98 52 142Z"
+              fill="white"/>
+        <path opacity="0.2" d="M171 82V144H144L145 145H172V83L171 82Z" fill="#263238"/>
+        <path opacity="0.2" d="M140 51C135.04 46.04 130.98 46 125 46H46L47 47H125C127.99 47 135.52 46.5 140 51Z"
+              fill="white"/>
+        <path opacity="0.2"
+              d="M171 82L140 51L114 25C111.73 22.72 107 20 103 20C99.56 20 96.19 20.69 94 22L46 46L22 96C21.14 97.82 20 100.98 20 103C20 107.37 21.92 111.83 25 115L48.96 138.79C49.53 139.49 50.21 140.21 51 141L52 142L55 145L81 171L82 172H144H145V145H172V144.93V83L171 82Z"
+              fill="url(#paint0_radial_22_11)"/>
+    </g>
+    <defs>
+        <radialGradient id="paint0_radial_22_11" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                        gradientTransform="translate(96 96) scale(76)">
+            <stop stop-color="white" stop-opacity="0.1"/>
+            <stop offset="1" stop-color="white" stop-opacity="0"/>
+        </radialGradient>
+        <clipPath id="clip0_22_11">
+            <rect width="192" height="192" fill="white"/>
+        </clipPath>
+    </defs>
+</svg>
