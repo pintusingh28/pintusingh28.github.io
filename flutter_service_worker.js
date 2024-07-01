@@ -3,10 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "862cad77bac090f57cf9dee9cdd328af",
+const RESOURCES = {"flutter_bootstrap.js": "5d10dd582d22283886849f0daab98bb1",
 "version.json": "009c9e65172e010890f7f65fde438006",
-"index.html": "f7bf6e192d4a3cec35c77f48b2935341",
-"/": "f7bf6e192d4a3cec35c77f48b2935341",
+"index.html": "4aa9080be1a1c13cb7a7d3cbc0640f54",
+"/": "4aa9080be1a1c13cb7a7d3cbc0640f54",
 "main.dart.js": "a1dccad8cacca7aefb1a2609e50a68a8",
 "404.html": "e8db1186d6502ac962bd09f3e11629c8",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
@@ -36,7 +36,7 @@ const RESOURCES = {"flutter_bootstrap.js": "862cad77bac090f57cf9dee9cdd328af",
 "icons/android-chrome-48x48.png": "46ec9154a21e7a394c0787f6f06e1aa9",
 "icons/favicon-32x32.png": "87d507ee346220f1f0390a6c218c73b4",
 "icons/android-chrome-144x144.png": "42d56ea1bfb6f17519c1fd1b2282b3ab",
-"manifest.json": "056bab6877364b85dfa4436f7011d4f6",
+"manifest.json": "65a9d716e16148f59aa865ed1c269839",
 "main.dart.js_1.part.js": "efbfeb36bacf767cee78dbb55bf7bf5a",
 "fonts/EuclidCircularA-Bold.ttf": "c9c7790611487f10ab2d674f6a8909d6",
 "fonts/EuclidCircularA-Medium.ttf": "f27978ebb847738736f0bc1b76a96c0e",

@@ -7,7 +7,7 @@
   "description": "",
   "start_url": "/",
   "scope": "/",
-  "display": "minimal-ui",
+  "display": "standalone",
   "background_color": "#050505",
   "theme_color": "#2454FF",
   "orientation": "any",
